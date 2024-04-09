@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ABC SUSU",
+      "price": "145500",
+      "img_url": "https://images.tokopedia.net/img/cache/700/product-1/2020/6/28/22515178/22515178_a2739632-422a-4655-92db-b7ce6ee8f231_800_800"
+    },
+    {
+      "id": 2,
+      "name": "ABC TERASI UDANG",
+      "price": "148000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/31/0b60e5b2-6e52-43c9-ad1c-d9fb9db1d629.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adem sari sak",
+      "price": "1085000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/product-1/2020/8/6/7415072/7415072_93def64e-b31f-4dab-b457-cf819811b9f5_602_602.jpg"
+    },
+    {
+      "id": 4,
+      "name": "CINGKU KALENG",
+      "price": "130000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/7/be3af66f-008e-4e4c-b9e0-b0faeaaf9323.jpg"
+    },
+    {
+      "id": 5,
+      "name": "AHH CHEESE 12pak x 10 x 15g (PAK) (P)",
+      "price": "102000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/22/6935d06d-cb5c-4770-a553-425a253c17ec.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ALE ALE JERUK 200ml (DUS)",
+      "price": "20000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/5/25/ddc7925b-15ac-40e4-9e68-eadebf278fbc.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ALPENLIEBE STICK CRIM SUSU 16pak x 24 x 6gr ( PAK )",
+      "price": "168000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/27/7523d169-1c93-4f73-b525-7535ede31518.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ANGET SARI JAHE",
+      "price": "229000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/7/27/91bafa8d-7450-4ba0-be03-b7e5aa988244.jpg"
+    },
+    {
+      "id": 9,
+      "name": "ANLENE ACTIFIT CHOCO 12x25GR",
+      "price": "309000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/5/31/5ac732ff-80cd-415f-89f8-c1dcedd14659.jpg"
+    },
+    {
+      "id": 10,
+      "name": "ANLENE VANILLA 12x25GR",
+      "price": "309000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/9/12/d43c5669-1434-4ce3-95d6-8eb2c5aa223e.jpg"
+    },
+    {
+      "id": 11,
+      "name": "AQUA GELAS 240ml (DUS)",
+      "price": "36500",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/20/0e29a1df-31ab-42b5-b467-9293ce155c59.jpg"
+    },
+    {
+      "id": 12,
+      "name": "ASTOR 12 pak x 12 x 18g (PAK)",
+      "price": "122500",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/5/c981804f-94f4-46da-ab81-497a1d5c1eb7.jpg"
+    },
+    {
+      "id": 13,
+      "name": "ATTACK JAZ 1 PESONA SEGAR 12 x 900g",
+      "price": "192000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/product-1/2019/11/3/703885/703885_0d7e8a0c-bca2-47f3-99f8-0af5df877711_2048_2047"
+    },
+    {
+      "id": 14,
+      "name": "ATTACK JAZ 1 SEMERBAK CINTA 12 x 900g",
+      "price": "192000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/product-1/2017/2/8/13682258/13682258_5fc8b7f4-ff39-4e54-8fd9-42b0c146ab12_300_300.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jaz 1 SEGAR RENCENG",
+      "price": "120000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/attachment/2020/1/18/157930346444947/157930346444947_d229018f-ca94-46c8-abc2-12da8ef9ce91.png"
+    },
+    {
+      "id": 16,
+      "name": "Jaz 1 CINTA RENCENG",
+      "price": "120000",
+      "img_url": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/8/13/8bff8b90-9b87-4dc9-95ee-ae91f9500c6e.png"
+    },
+    {
+      "id": 17,
+      "name": "BABY HAPPY PANTS L1 POPOK 8rcg x 6",
+      "price": "75500",
+      "img_url": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/6/15/7cc26610-e656-486f-a639-ac58a2f6b477.png?ect=4g"
+    },
+    {
+      "id": 18,
+      "name": "BABY HAPPY PANTS M1 POPOK 8rcg x 6",
+      "price": "75500",
+      "img_url": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/6/15/7cc26610-e656-486f-a639-ac58a2f6b477.png?ect=4g"
+    },
+    {
+      "id": 19,
+      "name": "BANGO 59ML",
+      "price": "114000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/4/9/e87b91b0-95f7-42c7-8918-3104204546ce.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Baygon spray 600+75ml",
+      "price": "325000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/31/35dd020e-ae0a-4d40-a433-3f7c75a2b55c.jpg"
+    },
+    {
+      "id": 21,
+      "name": "BAYGON COIL JMB MAx RED 10HR 150GR",
+      "price": "4000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/5/30/3994b0c8-9ce7-44c5-93ee-565cd01cf3e0.jpg"
+    },
+    {
+      "id": 22,
+      "name": "BAYGON JBLAVY 10HR 125g",
+      "price": "4000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/1/8/d4c79180-ea5b-49eb-8e5c-3ea1536d739a.jpg"
+    },
+    {
+      "id": 23,
+      "name": "BEAR BRAND",
+      "price": "275000",
+      "img_url": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/5/5/44492987/44492987_6a9aa199-2685-494a-9a03-5cf3a91efb3f_700_700"
+    },
+    {
+      "id": 24,
+      "name": "BENDERA SACHET COKLAT",
+      "price": "151000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2020/8/21/d9dbcc78-297a-4e97-8feb-04da93eacdb0.jpg"
+    },
+    {
+      "id": 25,
+      "name": "BENDERA COKLAT KALENG",
+      "price": "532000",
+      "img_url": "https://images.tokopedia.net/img/cache/700/product-1/2019/3/2/5400804/5400804_d82a224f-2912-49d8-b979-38ca53a74a56_700_700.jpg"
+    }
+  ]
+}
